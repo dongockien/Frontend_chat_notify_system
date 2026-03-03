@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103944605129",
+    "project_id": "chat-notify-system",
+    "storage_bucket": "chat-notify-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103944605129:android:04cd031d4253b67b4f2c18",
+        "android_client_info": {
+          "package_name": "com.example.chat_notify_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9T7nY-7q2D4i9j7sEUAiQ6LZppgmv464"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
